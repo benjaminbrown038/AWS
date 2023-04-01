@@ -6,7 +6,7 @@ benjaminbrowntrey@gmail.com
 password:
 standard
 
-Budgets:
+# References:
 
-sagemaker
+- https://sagemaker-examples.readthedocs.io/en/latest/sagemaker_neo_compilation_jobs/pytorch_torchvision/pytorch_torchvision_neo_outputs.html
 
