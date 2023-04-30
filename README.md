@@ -8,5 +8,6 @@ standard
 
 # References:
 
-- https://sagemaker-examples.readthedocs.io/en/latest/sagemaker_neo_compilation_jobs/pytorch_torchvision/pytorch_torchvision_neo_outputs.html
-
+- https://docs.aws.amazon.com/cli/latest/reference/sagemaker/index.html#cli-aws-sagemaker
+- https://boto3.amazonaws.com/v1/documentation/api/latest/reference/services/sagemaker.html
+- https://sagemaker.readthedocs.io/en/stable/
