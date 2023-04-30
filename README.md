@@ -1,5 +1,7 @@
 # aws sagemagker
 
+https://aws.amazon.com/marketplace/partners/management-tour
+
 login:
 benjaminbrowntrey@gmail.com
 
