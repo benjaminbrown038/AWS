@@ -8,8 +8,12 @@ benjaminbrowntrey@gmail.com
 password:
 standard
 
+S3 bucket 
+
+Lambda Function
+
 # References:
 
-- https://docs.aws.amazon.com/cli/latest/reference/sagemaker/index.html#cli-aws-sagemaker
-- https://boto3.amazonaws.com/v1/documentation/api/latest/reference/services/sagemaker.html
-- https://sagemaker.readthedocs.io/en/stable/
+- https://aws.amazon.com/getting-started/hands-on/build-train-deploy-machine-learning-model-sagemaker/
+
+
