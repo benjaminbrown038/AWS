@@ -33,8 +33,10 @@ standard
 
 
 
+Containers: 
 
 - Amazon EC2 instance
+- EC2 Console
 - AWS Deep Learning Base
 - Public DNS
 - Log in to Amazon ECR
