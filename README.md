@@ -7,6 +7,8 @@ benjaminbrowntrey@gmail.com
 password:
 standard
 
+
+
 - S3 bucket 
 - Lambda 
 - Iam Console
@@ -15,15 +17,22 @@ standard
 - Sagemaker
 
 
+
+
 - Create 
 - Start 
 - Add
+
+
 
 - Permissions
 - Users 
 - Full Access Policy
 - Inline policy
 - Notebook Instance
+
+
+
 
 - Amazon EC2 instance
 - AWS Deep Learning Base
