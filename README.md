@@ -35,12 +35,16 @@ standard
 
 Containers: 
 
-- Amazon EC2 instance
 - EC2 Console
+- Amazon EC2 instance
+- AWS Deep Learning Base AMI
+- EC2 Instance Base
 - AWS Deep Learning Base
 - Public DNS
 - Log in to Amazon ECR
 - Amazon ECR
+- Amazon Machine Images (AMIs)
+- AWS Deep Learning Containers
 
 # References:
 
