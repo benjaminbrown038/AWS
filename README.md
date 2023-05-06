@@ -24,9 +24,13 @@ Start
 Add
 
 Permissions
+
 Users 
+
 Full Access Policy
+
 inline policy
+
 Amazon EC2 instance
 AWS Deep Learning Base
 Public DNS
@@ -39,4 +43,21 @@ Amazon ECR
 
 - https://us-east-1.console.aws.amazon.com/iamv2/home?region=us-east-1#/home
 
+#Tutorials:
+
+## Models in Containers
+
+- https://aws.amazon.com/getting-started/hands-on/train-deep-learning-model-aws-ec2-containers/?ref=gsrchandson
+
+## Trainium and Sagemaker
+- https://aws.amazon.com/getting-started/hands-on/train-your-ml-models-with-aws-trainium-and-amazon-sagemaker/?ref=gsrchandson
+ 
+## Autopilot
+- https://aws.amazon.com/getting-started/hands-on/machine-learning-tutorial-automatically-create-models/?ref=gsrchandson
+
+## Sagemaker Canvas
+- https://aws.amazon.com/getting-started/hands-on/machine-learning-tutorial-generate-predictions-without-writing-code/?ref=gsrchandson
+
+## Studio
+- https://aws.amazon.com/getting-started/hands-on/machine-learning-tutorial-deploy-model-to-real-time-inference-endpoint/?ref=gsrchandson
 
