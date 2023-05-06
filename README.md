@@ -23,6 +23,7 @@ standard
 - Users 
 - Full Access Policy
 - Inline policy
+- Notebook Instance
 
 - Amazon EC2 instance
 - AWS Deep Learning Base
