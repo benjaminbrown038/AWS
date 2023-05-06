@@ -1,4 +1,4 @@
-# aws sagemagker
+# AWS Sagemagker
 
 
 login:
@@ -7,57 +7,48 @@ benjaminbrowntrey@gmail.com
 password:
 standard
 
-S3 bucket 
-
-Lambda Function
-
-Iam Console
-
-Amazon ECR
-
-EC2 console
+- S3 bucket 
+- Lambda 
+- Iam Console
+- Amazon ECR
+- EC2 Console
+- Sagemaker
 
 
+- Create 
+- Start 
+- Add
 
-Create 
-Start 
-Add
+- Permissions
+- Users 
+- Full Access Policy
+- Inline policy
 
-Permissions
-
-Users 
-
-Full Access Policy
-
-inline policy
-
-Amazon EC2 instance
-AWS Deep Learning Base
-Public DNS
-Log in to Amazon ECR
-Amazon ECR
+- Amazon EC2 instance
+- AWS Deep Learning Base
+- Public DNS
+- Log in to Amazon ECR
+- Amazon ECR
 
 # References:
 
 - https://aws.amazon.com/getting-started/hands-on/build-train-deploy-machine-learning-model-sagemaker/
-
 - https://us-east-1.console.aws.amazon.com/iamv2/home?region=us-east-1#/home
 
-#Tutorials:
+# Tutorials:
 
-## Models in Containers
-
+### Models in Containers
 - https://aws.amazon.com/getting-started/hands-on/train-deep-learning-model-aws-ec2-containers/?ref=gsrchandson
 
-## Trainium and Sagemaker
+### Trainium and Sagemaker
 - https://aws.amazon.com/getting-started/hands-on/train-your-ml-models-with-aws-trainium-and-amazon-sagemaker/?ref=gsrchandson
  
-## Autopilot
+### Autopilot
 - https://aws.amazon.com/getting-started/hands-on/machine-learning-tutorial-automatically-create-models/?ref=gsrchandson
 
-## Sagemaker Canvas
+### Sagemaker Canvas
 - https://aws.amazon.com/getting-started/hands-on/machine-learning-tutorial-generate-predictions-without-writing-code/?ref=gsrchandson
 
-## Studio
+### Studio
 - https://aws.amazon.com/getting-started/hands-on/machine-learning-tutorial-deploy-model-to-real-time-inference-endpoint/?ref=gsrchandson
 
