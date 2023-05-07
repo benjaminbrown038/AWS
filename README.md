@@ -8,7 +8,7 @@ password:
 standard
 
 
-
+- AWS Management Console
 - Iam Console
 - Amazon ECR
 - EC2 Console
