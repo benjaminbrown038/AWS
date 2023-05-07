@@ -9,12 +9,9 @@ standard
 
 
 
-- S3 bucket 
-- Lambda 
 - Iam Console
 - Amazon ECR
 - EC2 Console
-- Sagemaker
 
 
 
@@ -30,6 +27,10 @@ standard
 - Full Access Policy
 - Inline policy
 - Notebook Instance
+- S3 bucket 
+- Sagemaker
+
+
 
 
 
