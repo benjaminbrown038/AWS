@@ -69,3 +69,5 @@ Containers:
 ### Studio
 - https://aws.amazon.com/getting-started/hands-on/machine-learning-tutorial-deploy-model-to-real-time-inference-endpoint/?ref=gsrchandson
 
+### PostGreSQL & S3
+- https://medium.com/@pubudusj/load-data-from-s3-to-postgres-using-step-functions-f25e0e909f25
