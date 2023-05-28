@@ -22,12 +22,6 @@ References:
 ##### Trainium and Sagemaker
 - https://aws.amazon.com/getting-started/hands-on/train-your-ml-models-with-aws-trainium-and-amazon-sagemaker/?ref=gsrchandson
  
-##### Autopilot
-- https://aws.amazon.com/getting-started/hands-on/machine-learning-tutorial-automatically-create-models/?ref=gsrchandson
-
-##### Sagemaker Canvas
-- https://aws.amazon.com/getting-started/hands-on/machine-learning-tutorial-generate-predictions-without-writing-code/?ref=gsrchandson
-
 ##### Studio
 - https://aws.amazon.com/getting-started/hands-on/machine-learning-tutorial-deploy-model-to-real-time-inference-endpoint/?ref=gsrchandson
 
