@@ -7,7 +7,9 @@ benjaminbrowntrey@gmail.com
 password:
 standard
 
-## Interfacing With AWS
+# Interfacing With AWS
+
+- https://docs.aws.amazon.com/sagemaker/latest/dg/gs-console.html
 
 #### Notebook Tutorials
 
