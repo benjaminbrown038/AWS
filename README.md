@@ -7,6 +7,65 @@ benjaminbrowntrey@gmail.com
 password:
 standard
 
+## Interfacing With AWS
+
+#### Notebook Tutorials
+
+###### Step 1: Create an Amazon SageMaker Notebook Instance
+
+- https://docs.aws.amazon.com/sagemaker/latest/dg/gs-setup-working-env.html
+
+
+##### Step 2: Create a Jupyter Notebook
+
+- https://docs.aws.amazon.com/sagemaker/latest/dg/ex1-prepare.html
+
+
+##### Step 3: Download, Explore, and Transform a Dataset
+
+- https://docs.aws.amazon.com/sagemaker/latest/dg/ex1-preprocess-data.html
+
+
+##### Step 4: Train a Model
+
+- https://docs.aws.amazon.com/sagemaker/latest/dg/ex1-train-model.html
+
+
+##### Step 5: Deploy the Model to Amazon EC2
+
+- https://docs.aws.amazon.com/sagemaker/latest/dg/ex1-model-deployment.html
+
+
+##### Step 6: Evaluate the Model
+
+- https://docs.aws.amazon.com/sagemaker/latest/dg/ex1-test-model.html
+
+
+##### Step 7: Clean Up
+
+- https://docs.aws.amazon.com/sagemaker/latest/dg/ex1-cleanup.html 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 References:
 
