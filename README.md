@@ -13,7 +13,7 @@ standard
 
 #### Notebook Tutorials
 
-###### Step 1: Create an Amazon SageMaker Notebook Instance
+##### Step 1: Create an Amazon SageMaker Notebook Instance
 
 - https://docs.aws.amazon.com/sagemaker/latest/dg/gs-setup-working-env.html
 
