@@ -6,20 +6,16 @@ benjaminbrowntrey@gmail.com
 password:
 standard
 
-# Interfacing With AWS
+###### Sagemaker
 
 - https://us-east-1.console.aws.amazon.com/iamv2/home?region=us-east-1#/home
 
-
-#### Notebook Tutorial
-
-- https://docs.aws.amazon.com/sagemaker/latest/dg/gs-setup-working-env.html
-
-##### Estimators
-
-- https://sagemaker.readthedocs.io/en/stable/api/training/estimators.html
+- https://sagemaker.readthedocs.io/en/stable/api/index.html
 
 
+##### Boto3
+
+- https://boto3.amazonaws.com/v1/documentation/api/latest/index.html
 
 
 
