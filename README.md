@@ -15,6 +15,13 @@ standard
 
 - https://docs.aws.amazon.com/sagemaker/latest/dg/gs-setup-working-env.html
 
+##### Estimators
+
+- https://sagemaker.readthedocs.io/en/stable/api/training/estimators.html
+
+
+
+
 
 References:
 
